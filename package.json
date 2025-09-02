@@ -1,6 +1,5 @@
 {
   "name": "awards",
-  "homepage": "https://hydro-bob.github.io/AWARD/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,11 +12,13 @@
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@tailwindcss/vite": "^4.1.12",
+    "clsx": "^2.1.1",
     "gh-pages": "^6.3.0",
     "gsap": "^3.13.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-icons": "^5.5.0",
+    "react-use": "^17.6.0",
     "tailwindcss": "^4.1.12"
   },
   "devDependencies": {
